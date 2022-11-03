@@ -1,0 +1,12 @@
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/bin/Debug/netcoreapp3.1/MinesweeperTestApp.deps.json
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/bin/Debug/netcoreapp3.1/MinesweeperTestApp.runtimeconfig.json
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/bin/Debug/netcoreapp3.1/MinesweeperTestApp.runtimeconfig.dev.json
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/bin/Debug/netcoreapp3.1/MinesweeperTestApp.dll
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/bin/Debug/netcoreapp3.1/MinesweeperTestApp.pdb
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/obj/Debug/netcoreapp3.1/MinesweeperTestApp.csprojAssemblyReference.cache
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/obj/Debug/netcoreapp3.1/MinesweeperTestApp.AssemblyInfoInputs.cache
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/obj/Debug/netcoreapp3.1/MinesweeperTestApp.AssemblyInfo.cs
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/obj/Debug/netcoreapp3.1/MinesweeperTestApp.csproj.CoreCompileInputs.cache
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/obj/Debug/netcoreapp3.1/MinesweeperTestApp.dll
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/obj/Debug/netcoreapp3.1/MinesweeperTestApp.pdb
+/Users/oleksiiremizov/RiderProjects/MinesweeperTestApp/MinesweeperTestApp/obj/Debug/netcoreapp3.1/MinesweeperTestApp.genruntimeconfig.cache
